@@ -1,0 +1,79 @@
+pick|you said "pick"
+drop|you said "drop"
+
+left|Left arrow
+right|Right arrow
+up|Up arrow
+down|Down arrow
+close|Close current application
+go up|Go up
+page up|Page up
+page down|Page down
+enter|Entering the folder
+escape|Escape Key Press
+backspace|Backspace
+home|Home position
+end|End position
+m|m key pressed
+tab|tab key pressed
+refresh| reload the screen or refresh the screen
+
+notepad|Open Notepad
+computer|Open my computer
+calculator|Open calculator
+chrome|Open chrome
+word|Open Microsoft Word
+excel|Open microsoft excel
+wordpad|Open wordpad
+skype|Open Skype
+
+
+
+mail|write mail
+face book|write facebook
+new tab|Open new tab
+next tab|Next tab
+minimize|Minimize the screen
+maximize|Maximize the screen
+restore|Restore the screen
+close tab|close tab
+change|change the program
+
+a|"a" key pressed
+b|"b" key pressed
+c|"c" key pressed
+d|"d" key pressed
+e|"e" key pressed
+f|"f" key pressed
+g|"g" key pressed
+h|"h" key pressed
+i|"i" key pressed
+j|"j" key pressed
+k|"k" key pressed
+l|"l" key pressed
+m|"m" key pressed
+n|"n" key pressed
+o|"o" key pressed
+p|"p" key pressed
+q|"q" key pressed
+r|"r" key pressed
+s|"s" key pressed
+t|"t" key pressed
+u|"u" key pressed
+v|"v" key pressed
+w|"w" key pressed
+x|"x" key pressed
+y|"y" key pressed
+z|"z" key pressed
+space|"spacebar" pressed
+
+zero|"0" key pressed
+one|"1" key pressed
+two|"2" key pressed
+three|"3" key pressed
+four|"4" key pressed
+five|"5" key pressed
+six|"6" key pressed
+seven|"7" key pressed
+eight|"8" key pressed
+nine|"9" key pressed

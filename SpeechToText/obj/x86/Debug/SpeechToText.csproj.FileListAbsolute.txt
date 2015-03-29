@@ -1,0 +1,30 @@
+C:\Users\admin\Desktop\SpeechToText\SpeechToText\bin\Debug\example.txt
+C:\Users\admin\Desktop\SpeechToText\SpeechToText\bin\Debug\SpeechToText.exe
+C:\Users\admin\Desktop\SpeechToText\SpeechToText\bin\Debug\SpeechToText.pdb
+C:\Users\admin\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText_MarkupCompile.cache
+C:\Users\admin\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.g.resources
+C:\Users\admin\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.exe
+C:\Users\admin\Desktop\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.pdb
+C:\Users\admin\Desktop\Speech controlled PC\SpeechToText\obj\x86\Debug\SpeechToText.exe
+C:\Users\admin\Desktop\Speech controlled PC\SpeechToText\obj\x86\Debug\SpeechToText.pdb
+C:\Users\admin\Desktop\Speech controlled PC\SpeechToText\bin\Debug\example.txt
+C:\Users\admin\Desktop\Speech controlled PC\SpeechToText\bin\Debug\SpeechToText.exe
+C:\Users\admin\Desktop\Speech controlled PC\SpeechToText\bin\Debug\SpeechToText.pdb
+C:\Users\admin\Desktop\Speech controlled PC\SpeechToText\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Speech controlled PC\SpeechToText\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Speech controlled PC\SpeechToText\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\Speech controlled PC\SpeechToText\obj\x86\Debug\SpeechToText_MarkupCompile.cache
+C:\Users\admin\Desktop\Speech controlled PC\SpeechToText\obj\x86\Debug\SpeechToText.g.resources
+F:\Study\8th Sem\Speech controlled PC\SpeechToText\obj\x86\Debug\SpeechToText.exe
+F:\Study\8th Sem\Speech controlled PC\SpeechToText\obj\x86\Debug\SpeechToText.pdb
+F:\Study\8th Sem\Speech controlled PC\SpeechToText\bin\Debug\example.txt
+F:\Study\8th Sem\Speech controlled PC\SpeechToText\bin\Debug\SpeechToText.exe
+F:\Study\8th Sem\Speech controlled PC\SpeechToText\bin\Debug\SpeechToText.pdb
+F:\Study\8th Sem\Speech controlled PC\SpeechToText\obj\x86\Debug\MainWindow.baml
+F:\Study\8th Sem\Speech controlled PC\SpeechToText\obj\x86\Debug\MainWindow.g.cs
+F:\Study\8th Sem\Speech controlled PC\SpeechToText\obj\x86\Debug\App.g.cs
+F:\Study\8th Sem\Speech controlled PC\SpeechToText\obj\x86\Debug\SpeechToText_MarkupCompile.cache
+F:\Study\8th Sem\Speech controlled PC\SpeechToText\obj\x86\Debug\SpeechToText.g.resources
